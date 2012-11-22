@@ -1,5 +1,5 @@
 <?php
-namespace Elbits\AppEnvLoaderBundle\AppEnvLoader\AppEnvVhostLoader;
+namespace Elbits\AppEnvLoaderBundle\AppEnvLoader;
 use Elbits\AppEnvLoaderBundle\AppEnvLoader\AppEnvLoader;
 
 /**
