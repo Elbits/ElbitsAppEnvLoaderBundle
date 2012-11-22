@@ -4,7 +4,7 @@
     "description": "Application Environment Loader bundle for use with Symfony2",
     "keywords": ["environment", "symfony", "bundle"],
     "homepage": "http://github.com/Elbits/ElbitsAppEnvLoaderBundle",
-    "license": "MIT",
+    "license": "CC-BY-SA-3.0",
     "authors": [
         {
             "name": "Pascal Schneider",
