@@ -1,6 +1,6 @@
 <?php
-namespace Elbits\AppEnvLoaderBundle\AppEnvLoader;
-use Elbits\AppEnvLoaderBundle\AppEnvLoader;
+namespace Elbits\AppEnvLoaderBundle\AppEnvLoader\AppEnvLoader;
+use Elbits\AppEnvLoaderBundle\AppEnvLoader\AppEnvLoaderInterface;
 
  /**
   * @author pascal.schneider
